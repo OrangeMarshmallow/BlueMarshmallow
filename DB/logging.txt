@@ -1,0 +1,1 @@
+{'All': False, 'Text': True, 'Console': True}
